@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/GhostPack/Seatbelt/commit/392171df84472591d4eae7ebd5b1cdc96ba91377",
       "git:hexsha": "392171df84472591d4eae7ebd5b1cdc96ba91377",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
